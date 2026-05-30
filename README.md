@@ -1,5 +1,4 @@
-<img width="1370" height="740" alt="image" src="https://github.com/user-attachments/assets/0cb9c48c-3828-4717-ac1d-3b80dfdafabf" /># Bank-Loan-Analysis
-Bank Loan Analysis Dashboard | Power BI
+
 
 # 📊 Bank Loan Analysis Dashboard | Power BI
 
@@ -68,8 +67,13 @@ A detailed loan-level report with filtering and drill-down capabilities for in-d
 ## 📷 Dashboard Preview
 
 ### Summary Dashboard
+<img width="822" height="444" alt="image" src="https://github.com/user-attachments/assets/0cb9c48c-3828-4717-ac1d-3b80dfdafabf" />#
+
 ### Overview Dashboard
+<img width="769" height="435" alt="image" src="https://github.com/user-attachments/assets/141a2b1e-253a-4927-b2a2-a9a49b911c55" />
+
 ### Details Dashboard
+<img width="776" height="439" alt="image" src="https://github.com/user-attachments/assets/b3e2b62e-629b-4d03-817e-b3e1ed40c9f8" />
 
 
 ## ⭐ Project Highlights
